@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/LoginScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/pf_leaderboard/login_leaderboardscn.unity
+    guid: 9ca6bc6dacfeb574bb730162b7927db7
+  - enabled: 0
+    path: Assets/Scenes/SkillScene.unity
+    guid: f5bd490638ac05d4293f73efd2b9333e
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/Main.unity
+    guid: 0938f1be7c1804045bc2441b202785af
+  - enabled: 1
+    path: Assets/Spaceshooter/_Scenes/Menu.unity
+    guid: 51d5079a8903f4f37a90174bf793ca06
+  - enabled: 1
+    path: Assets/pf_leaderboard/InventoryScene.unity
+    guid: a1c2cc6f8116e254aa30837245514b2e
+  - enabled: 1
+    path: Assets/pf_leaderboard/GlobalLeaderboardScene.unity
+    guid: 2045f978e64f91e4f8af81c8b6cc0d9a
+  - enabled: 1
+    path: Assets/pf_leaderboard/NearbyLeaderboardScene.unity
+    guid: f42da631ada6cf44fa7bc684fbe1a3f5
+  - enabled: 1
+    path: Assets/pf_leaderboard/FriendsScene.unity
+    guid: 26c49d837c9d53d43b6b3078d53817d8
+  - enabled: 1
+    path: Assets/pf_leaderboard/UserSettingsScene.unity
+    guid: 41d843a33a23e504ebbff5d8295d430e
+  - enabled: 1
+    path: Assets/pf_leaderboard/TradingScene.unity
+    guid: 255f9dc0d6c49f445a3362376afaa5da
+  - enabled: 1
+    path: Assets/pf_leaderboard/GuildScene.unity
+    guid: 41f6dae43d98d7743b91126ee080bbe6
+  m_configObjects: {}
